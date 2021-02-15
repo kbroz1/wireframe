@@ -1,0 +1,23 @@
+.flexbox-container {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 125px;
+}
+.flexbox-item {
+    height: 250px;
+    width: 400px;
+    border: double dodgerblue 10px;
+    justify-content: space-between;
+
+}
+.flexone {
+    flex-shrink: 0;
+    
+}
+.flextwo {
+    flex-grow: 2;
+}
+.flexthree {
+    flex-shrink: 0;
+}
+

@@ -1,0 +1,146 @@
+
+body {
+    background-color: #37453A;
+}
+
+li a{
+    color: #37453A;
+    font-size: 25px;
+}
+
+.logo{
+    display: inline;
+    
+}
+#nav {
+    background:#b5aa88;
+    font-family: 'Truculenta', sans-serif;
+    font-size: 20px;
+    border: 2px solid transparent;
+border-radius: 5px;
+margin-right: 17px;
+margin-left:17px;
+padding: 2px; 
+    
+}
+
+ul {
+    margin-left: 200px;
+    margin-top: 10px;
+}
+
+li {
+    display: inline;
+  }
+
+
+
+
+.navbar{
+    background-color: #b5aa88;
+    text-align: center;
+    font-family: 'Truculenta', sans-serif;
+    font-size: 25px;
+
+}
+.nav-link {
+    text-align:end;
+}
+
+#myCarousel {
+margin: 10px;
+padding: 10px;
+border-radius: 5px;
+background-color:#AD6430;
+
+
+}
+
+.carousel-header {
+    color: #f3eee3;
+    text-align:left;
+    font-family: 'Truculenta', sans-serif;
+    font-size: 25px;
+
+}
+
+.carousel-text {
+    color: #f3eee3;
+    text-align:left;
+    font-family: 'Truculenta', sans-serif;
+    font-size: 20px;
+}
+
+.mission {
+    color: #f3eee3;
+    text-align:center;
+    font-family: 'Truculenta', sans-serif;
+    border: 2px solid #f3eee3;
+    border-radius: 5px;
+    background-color: #984f39;
+    padding: 30px;
+    margin-left: 120px;
+    margin-right: 120px;
+    margin-top:10px;
+    margin-bottom":10px;
+}
+h4{
+    color: #f3eee3;
+    text-align:center;
+    font-family: 'Truculenta', sans-serif;
+    font-size: 30px;
+
+}
+.p1 {
+    color: #f3eee3;
+    text-align:center;
+    font-family: 'Truculenta', sans-serif;
+    padding-top: 0px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    font-size: 18px;
+}
+
+
+
+.panel-default {
+    background-image: url("https://miro.medium.com/max/7160/0*Qg-sACv60IYe7Iav.jpg");
+    background-size: cover;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: #f3eee3;
+    font-family: 'Truculenta', sans-serif;
+    text-align:center;
+    border: 2px solid #f3eee3;
+    border-radius: 5px;
+
+}
+.panel-body {
+    font-size: 30px;
+    font-family: 'Truculenta', sans-serif;
+    padding: 0px;
+}
+
+.button {
+    font-size: 30px;
+    background-color:  #984f39;
+    border: 2px solid #f3eee3;
+    border-radius: 5px;
+
+}
+
+
+ .footer-basic {
+    font-family: 'Truculenta', sans-serif;
+    font-size: 18px;
+    text-align: center;
+    padding: 1px;
+    background-color: #b5aa88;
+    color:#37453A;
+    display:block;
+    border: 2px solid transparent;
+    border-radius: 5px;
+ }
+
