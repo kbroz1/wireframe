@@ -7,6 +7,12 @@ li a{
     color: #37453A;
     font-size: 25px;
 }
+li a:hover {
+    background-color: #f3eee3;
+  }
+.footer-basic a:hover{
+    background-color: #f3eee3;
+  }
 
 .logo{
     display: inline;
